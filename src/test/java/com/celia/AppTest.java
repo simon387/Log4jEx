@@ -1,14 +1,11 @@
 package com.celia;
 
-//import org.junit.Assert;
-//import org.junit.Test;
+import org.junit.Test;
 
 public class AppTest {
 	
-//	@Test
-//	public void testLengthOfTheUniqueKey() {
-//		
-//		App obj = new App();
-//		Assert.assertEquals(36, obj.generateUniqueKey().length());
-//	}
+	@Test
+	public void testApp() {
+		App.main(new String[] {"Running Test"});
+	}
 }

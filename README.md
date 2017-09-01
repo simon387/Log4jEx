@@ -8,7 +8,7 @@
 
 ## compiling
 + mvn eclipse:eclipse
-+ mvn clean install
++ mvn clean install package
 
 ## running
 + java -cp target/Log4jEx-1.0-SNAPSHOT.jar com.celia.App
