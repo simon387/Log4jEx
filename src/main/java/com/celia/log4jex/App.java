@@ -1,4 +1,4 @@
-package com.celia;
+package com.celia.log4jex;
 
 import org.apache.log4j.Logger;
 
