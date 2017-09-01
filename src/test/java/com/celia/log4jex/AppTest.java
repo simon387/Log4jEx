@@ -6,6 +6,6 @@ public class AppTest {
 	
 	@Test
 	public void testApp() {
-		App.main(new String[] {"Running Test"});
+		App.main(null);
 	}
 }
